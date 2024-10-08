@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HOC\\DosNet\\bai1\\vd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\views\\home\\mylink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\views\\home\\mylink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\controllers\\hauicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\controllers\\hauicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\views\\haui\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\views\\haui\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|e:\\hoc\\dosnet\\bai1\\vd\\vd\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5CC6E9-BBF8-48CF-8D5F-5FD7296BE312}|vd\\vd.csproj|solutionrelative:vd\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "vd\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "vd\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:20:40.656Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Haui\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "vd\\Views\\Haui\\Welcome.cshtml",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Haui\\Welcome.cshtml",
+              "RelativeToolTip": "vd\\Views\\Haui\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T15:17:13.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HauiController.cs",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HauiController.cs",
+              "RelativeDocumentMoniker": "vd\\Controllers\\HauiController.cs",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HauiController.cs",
+              "RelativeToolTip": "vd\\Controllers\\HauiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:16:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLink.cshtml",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Home\\MyLink.cshtml",
+              "RelativeDocumentMoniker": "vd\\Views\\Home\\MyLink.cshtml",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Home\\MyLink.cshtml",
+              "RelativeToolTip": "vd\\Views\\Home\\MyLink.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:47:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "vd\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "vd\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:44:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vd\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vd\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:35:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "vd\\Views\\Hello\\Index.cshtml",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "vd\\Views\\Hello\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T14:38:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "vd\\Controllers\\HelloController.cs",
+              "ToolTip": "E:\\HOC\\DosNet\\bai1\\vd\\vd\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "vd\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:11:36.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
